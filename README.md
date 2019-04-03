@@ -2,9 +2,9 @@
 
 ![weekly-banner](https://raw.githubusercontent.com/Tnfe/TNFE-Weekly/master/assets/weekly-banner.png "weekly-banner")
 
-Golang语言发展飞速，但是相关的信息、文章也铺天盖地的遍布在各处，我们有时候会困惑，不知道哪些信息对于自己是有价值的，那么TNFE团队启动了这个周刊项目，为所有的前端开发人员整理出小程序相关以及其它web前端技术领域的精品内容。
+Golang语言发展飞速，但是相关的信息、文章也铺天盖地的遍布在各处，我们有时候会困惑，不知道哪些信息对于自己是有价值的，请关注golang-weekly，这里有你最想要的golang技术动向和新闻。
 
-:honeybee:我们坚持每周为你提供高质量的关于小程序、h5等前端领域的文章和项目:sparkles:。
+:honeybee:坚持每周为你提供高质量的golang文章和项目:sparkles:。
 
 <br />
 
@@ -20,18 +20,11 @@ Golang语言发展飞速，但是相关的信息、文章也铺天盖地的遍�
 
 <br />
 
-## :cat: 团队GitHub
-
-[TNFE](https://github.com/Tnfe)
-
-<br />
-
 ## :books: ​Weekly：
 
 ## 第一周
-1. [小程序开发的一些经验](https://zhuanlan.zhihu.com/p/25126957)
-2. [黄瓜 UI: 一个即插即用的 React 组件库](https://juejin.im/post/5c233564e51d455d382ebeaa)
-3. [1位开发如何撑起一个过亿用户的小程序？](https://juejin.im/post/5c248f0ff265da611c270815)
-4. [阿里重磅开源中后台UI解决方案Fusion](https://fusion.design/)
-5. [taro 多端统一开发框架](https://github.com/NervJS/taro)
-6. [用微信小程序云开发做一个错误日志](http://www.wxapp-union.com/article-4785-1.html)
+1. [Golang在SmartX 的实践](https://cloud.tencent.com/developer/news/267238)
+2. [A Go implementation of Poly1305 that makes sense](https://blog.filippo.io/a-literate-go-implementation-of-poly1305/)
+3. [GO语言的进阶之路-Golang高级数据结构定义](https://www.cnblogs.com/yinzhengjie/p/7079626.html)
+4. [GOLANG语言高级教程](https://www.cnblogs.com/chris-cp/p/6118854.html)
+5. [Golang 新手可能会踩的50个坑](https://segmentfault.com/a/1190000013739000?utm_source=tag-newest)
