@@ -1,6 +1,6 @@
 # Golang-Weekly
 
-![weekly-banner](https://raw.githubusercontent.com/Tnfe/TNFE-Weekly/master/assets/weekly-banner.png "weekly-banner")
+![weekly-banner](https://github.com/bulubulucat/golang-weekly/blob/master/banner.jpg?raw=true "weekly-banner")
 
 Golang语言发展飞速，但是相关的信息、文章也铺天盖地的遍布在各处，我们有时候会困惑，不知道哪些信息对于自己是有价值的，请关注golang-weekly，这里有你最想要的golang技术动向和新闻。
 
