@@ -22,6 +22,14 @@ Golang语言发展飞速，但是相关的信息、文章也铺天盖地的遍�
 
 ## :books: ​Weekly：
 
+## 第三周
+1. [AppsFlyer 将 API 网关服务从 Clojure 迁移到 Golang](https://www.infoq.cn/article/8OVxwDLKasaSb4_kKjCh)
+2. [才云开源 Nirvana：Golang REST API 框架](https://www.infoq.cn/article/xCkWEisFYi-HSJsFqaGP)
+3. [Golang常见的并发模式](https://juejin.im/post/5ca2e59bf265da30827a14fc)
+4. [不知道该继续坚持php还是转golang](https://segmentfault.com/q/1010000008413867)
+5. [part 21: golang goroutines](https://juejin.im/post/5ca23795f265da30bf15cabc)
+
+
 ## 第二周
 1. [再谈 Go 语言在前端的应用前景](https://www.jiqizhixin.com/articles/2019-01-02-35)
 2. [不安分的 Go 语言开始入侵 Web 前端领域了](https://juejin.im/post/5be10686e51d45053f0de84c)
