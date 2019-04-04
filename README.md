@@ -22,6 +22,13 @@ Golang语言发展飞速，但是相关的信息、文章也铺天盖地的遍�
 
 ## :books: ​Weekly：
 
+## 第二周
+1. [再谈 Go 语言在前端的应用前景](https://www.jiqizhixin.com/articles/2019-01-02-35)
+2. [不安分的 Go 语言开始入侵 Web 前端领域了](https://juejin.im/post/5be10686e51d45053f0de84c)
+3. [如何从 PHP 过渡到 Golang？](https://www.zhihu.com/question/23277085)
+4. [Go语言经典库使用分析（八）| 变量数据结构调试利器 go-spew](https://www.flysnow.org/2019/02/03/golang-classic-libs-go-spew.html)
+5. [Go语言(golang)的错误(error)处理的推荐方案](https://www.flysnow.org/2019/01/01/golang-error-handle-suggestion.html)
+
 ## 第一周
 1. [Golang在SmartX 的实践](https://cloud.tencent.com/developer/news/267238)
 2. [A Go implementation of Poly1305 that makes sense](https://blog.filippo.io/a-literate-go-implementation-of-poly1305/)
