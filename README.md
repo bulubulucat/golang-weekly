@@ -22,6 +22,13 @@ Golang语言发展飞速，但是相关的信息、文章也铺天盖地的遍�
 
 ## :books: ​Weekly：
 
+## 第四周
+1. [Go as a scripting language in Linux](https://www.dotconferences.com/2019/03/ignat-korchagin-go-as-a-scripting-language-in-linux)
+2. [From PHP to Go: the isset function](https://asanchez.dev/blog/from-php-to-go-isset/)
+3. [From PHP to Go: Arrays](https://asanchez.dev/blog/from-php-to-go-arrays/)
+4. [Go语言2018调查报告发布](https://news.cnblogs.com/n/623075/)
+5. [Golang最最最基础语法](http://www.cocoachina.com/ios/20190404/26729.html)
+
 ## 第三周
 1. [AppsFlyer 将 API 网关服务从 Clojure 迁移到 Golang](https://www.infoq.cn/article/8OVxwDLKasaSb4_kKjCh)
 2. [才云开源 Nirvana：Golang REST API 框架](https://www.infoq.cn/article/xCkWEisFYi-HSJsFqaGP)
