@@ -45,7 +45,6 @@ Golang语言发展飞速，但是相关的信息、文章也铺天盖地的遍�
 5. [Go语言(golang)的错误(error)处理的推荐方案](https://www.flysnow.org/2019/01/01/golang-error-handle-suggestion.html)
 
 ## 第一周
-1. [Golang在SmartX 的实践](https://cloud.tencent.com/developer/news/267238)
 2. [A Go implementation of Poly1305 that makes sense](https://blog.filippo.io/a-literate-go-implementation-of-poly1305/)
 3. [GO语言的进阶之路-Golang高级数据结构定义](https://www.cnblogs.com/yinzhengjie/p/7079626.html)
 4. [GOLANG语言高级教程](https://www.cnblogs.com/chris-cp/p/6118854.html)
